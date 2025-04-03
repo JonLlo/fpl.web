@@ -1,0 +1,1 @@
+Is there a way I can use an AI chatbot, making use of the fpl API, to allow a user to input 2 teams (yours and your friends), and then you can ask question about who is the biggest threat/who u need to bring in to make sure you do better than that person
